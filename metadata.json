@@ -1,0 +1,6 @@
+{
+  "name": "CyberParkour 3D",
+  "description": "Juego 3D en primera persona de parkour en una ciudad futurista con 2344 sectores, 1557 puzzles y la misteriosa narrativa del Libro Observador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
